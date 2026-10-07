@@ -1,4 +1,4 @@
-# MME 321 – [System Dynamics & Controls]
+# MME 321 – System Dynamics & Controls
 
 [modeling mechanical, electromechanical, thermal,
 hydraulic, and pneumatic systems using MATLAB/Simulink/Simscape, and
