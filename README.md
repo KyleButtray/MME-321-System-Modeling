@@ -1,31 +1,25 @@
-# MME 321 – [Add course title, e.g. "System Dynamics & Controls"]
+# MME 321 – [System Dynamics & Controls]
 
-[1-2 sentence overview — e.g. modeling mechanical, electromechanical, thermal,
+[modeling mechanical, electromechanical, thermal,
 hydraulic, and pneumatic systems using MATLAB/Simulink/Simscape, and
-designing feedback controllers.]
+designing feedback controllers]
 
 ## Labs & Final Project
 
-| Folder | System modeled | Description (add yours) |
+| Folder | System modeled | Description |
 |---|---|---|
-| `Lab1/` | Solving ODEs (stiff vs. non-stiff) in MATLAB/Simulink | TODO |
-| `Lab2/` | ODE solving in Simulink (continued) | TODO |
-| `Lab3/` | Mechanical system (MATLAB + Simulink) | TODO |
-| `Lab4/` | Mechanical system in Simscape | TODO |
-| `Lab5/` | Electromechanical system (MATLAB + Simulink + Simscape) | TODO |
-| `Lab6/` | Simscape system model | TODO |
-| `Lab7/` | Hydraulic system | TODO |
-| `Lab8/` | Pneumatic system | TODO |
-| `Lab9/` | Thermal system + DC motor control (Simscape/Simulink) | TODO |
-| `MME 321 Lab 10 report.pdf` | Lab 10 write-up | TODO |
-| `Lab11/` | Control system design (Simulink), DC motor reference image | TODO |
-| `Final Project/` | Final project: combines MATLAB, Simulink, and Simscape models + full report | TODO — likely your best showcase piece for this course |
-
-## Suggested next steps to polish this repo
-- [ ] Lead with the Final Project in this README (link + 2-3 sentence summary) since it's the most complete deliverable
-- [ ] For each lab, note the physical system modeled and one key result (e.g. a step response plot) — even a single sentence per lab helps a reader scan quickly
-- [ ] `.slx`/`.mlx` files don't render on GitHub — export a key plot or block diagram as an image for each lab and embed it here
-- [ ] `slprj/` folders and `.slxc` files were removed from this repo since they're regenerated automatically by Simulink — no need to track them (see `.gitignore`)
+| `Lab1/` | Solving ODEs (stiff vs. non-stiff) in MATLAB/Simulink | Conceptual Analysis of mathematical models |
+| `Lab2/` | ODE solving in Simulink (continued) | solving first order, second order, and 5th power order ODEs in Simulink |
+| `Lab3/` | Mechanical system (MATLAB + Simulink) | Intro to mechanical system modeling in simulink|
+| `Lab4/` | Mechanical system in Simscape | Intro to mechanical system modeling in Simscape |
+| `Lab5/` | Electromechanical system (MATLAB + Simulink + Simscape) | Intro to modeling electrical systems in simulink/simscape |
+| `Lab6/` | Simscape system model | Modeling hybrid systems of mechanical and electrical subsystems |
+| `Lab7/` | Hydraulic system | hydraulic system modeling in simscape |
+| `Lab8/` | Pneumatic system | pneumatic system modeling in simscape |
+| `Lab9/` | Thermal system + DC motor control (Simscape/Simulink) | Thermal system hybrid modeling of DC motor in simscape and simulink |
+| `MME 321 Lab 10 report.pdf` | Lab 10 write-up | Introduction to creating transfer functions and state space modeling in MATLAB|
+| `Lab11/` | Control system design (Simulink), DC motor reference image | Introduction to feedback controllers and PID tuning |
+| `Final Project/` | Final project: combines MATLAB, Simulink, and Simscape models + full report | Simulating an elevator within MATLAB, Simulink, and Simscape by combining knowledge of simulation and state space modeling |
 
 ## Tools used
 MATLAB, Simulink, Simscape
