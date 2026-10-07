@@ -1,8 +1,8 @@
 # MME 321 – System Dynamics & Controls
 
-[modeling mechanical, electromechanical, thermal,
+modeling mechanical, electromechanical, thermal,
 hydraulic, and pneumatic systems using MATLAB/Simulink/Simscape, and
-designing feedback controllers]
+designing feedback controllers
 
 ## Labs & Final Project
 
